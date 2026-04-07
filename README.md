@@ -94,7 +94,9 @@ This project tells the story of turning software knowledge into practical, real-
 
 ---
 
+<p align="center">
 💡 This project demonstrates Python + Django full-stack skills, database handling, responsive web design, and is optimized for portfolio & recruiter impact.
+</p>
 
 
 
