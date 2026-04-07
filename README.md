@@ -13,6 +13,12 @@ It showcases full-stack development, CRUD operations, dynamic templates, and dat
 
 This project tells the story of turning software knowledge into practical, real-world applications, highlighting problem-solving, clean coding, and web development best practices.
 
+---
+
+<p align="center"> <img src="https://img.shields.io/badge/Python-3-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Django-Framework-green?style=for-the-badge&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/SQLite-Database-red?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/CRUD-Operations-orange?style=for-the-badge" alt="CRUD"> <img src="https://img.shields.io/badge/Templates-HTML%2FCSS-purple?style=for-the-badge" alt="Templates"> <img src="https://img.shields.io/badge/Admin-Panel-teal?style=for-the-badge" alt="Admin Panel"> </p>
+
+---
+
 <h2>🎯 OBJECTIVES / ПОСТАВЕНИ ЦЕЛИ</h2> 
 
 <ul> <li>💻 Build a **full-stack, functional book management system**</li> <li>🛠️ Apply **Python & Django best practices**</li> <li>📝 Implement **CRUD operations** effectively</li> <li>🎨 Design **dynamic templates and responsive UI**</li> <li>📊 Showcase **database integration, admin panel usage, and static file management**</li> <li>🏆 Present a **portfolio-ready, HR-friendly project**</li> </ul>
