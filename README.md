@@ -1,4 +1,4 @@
-<h1 align="center">📚 DJANGO WEB APP – CATALOG SYSTEM</h1> 
+<h1 align="center">📚 DJANGO WEB APP – LIBRARY MANAGER</h1> 
 
 
 # <p align="center"><strong><em style="font-size: 160%;">Dynamic web application to manage books and showcase CRUD operations using Python and Django</em></strong></p>
