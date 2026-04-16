@@ -57,9 +57,6 @@ This project tells the story of turning software knowledge into practical, real-
   <img src="https://img.shields.io/badge/Statistics-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deep_Learning-A78BFA?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Backend-3B82F6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-60A5FA?style=for-the-badge&logo=git&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Django-4F46E5?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-6366F1?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/CRUD-8B5CF6?style=for-the-badge" />
