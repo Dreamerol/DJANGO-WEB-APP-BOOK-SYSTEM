@@ -242,18 +242,6 @@ This project tells the story of turning software knowledge into practical, real-
 <ul> <li>🐍 **Python & Django Development**</li> <li>🗄️ **Database Integration (SQLite)**</li> <li>🎨 **Template Rendering & Static Files**</li> <li>🛠️ **CRUD Functionality Implementation**</li> <li>📱 **Responsive & Portfolio-Ready Design**</li> <li>🧩 **Problem-Solving & Clean Coding Practices**</li> <li>💼 **HR/Recruiter Friendly Presentation**</li> </ul>
 
 
----
-
-<p align="center">
-💡 This project demonstrates Python + Django full-stack skills, database handling, responsive web design, and is optimized for portfolio       
-  & recruiter impact.
-</p>
-
-
-<p align="center">
-  🔗 Explore more on my GitHub profile: 
-  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
-</p>
 
 ---
 
@@ -283,5 +271,22 @@ This project tells the story of turning software knowledge into practical, real-
   <img src="https://img.shields.io/badge/Admin_Panel-C4B5FD?style=for-the-badge" />
 </p>
 
+
+
+
+---
+
+
+
+<p align="center">
+💡 This project demonstrates Python + Django full-stack skills, database handling, responsive web design, and is optimized for portfolio       
+  & recruiter impact.
+</p>
+
+
+<p align="center">
+  🔗 Explore more on my GitHub profile: 
+  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
+</p>
 
 
