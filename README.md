@@ -4,13 +4,13 @@
 # <p align="center"><strong><em style="font-size: 160%;">Dynamic web application to manage books and showcase CRUD operations using Django</em></strong></p>
 
 
----
+<br>
 
 <div align="center">
   <img src="https://github.com/Dreamerol/Dreamerol/blob/315852075478707306a5f65265e8b22f03963a1f/ZBOOKS.jpg" alt="BOOKS" width="100%" />
 </div>
 
----
+<br>
 
 
 <p align="center">
