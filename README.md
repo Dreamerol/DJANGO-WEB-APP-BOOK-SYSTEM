@@ -123,8 +123,6 @@ This project tells the story of turning software knowledge into practical, real-
 ---
 
 
----
-
 <h2 align="center">🖥️ TECH STACK / ТЕХНОЛОГИИ</h2>
 
 <p align="center">
